@@ -2,7 +2,7 @@
 
 ### Founder & AI Strategist at [Vornix.ai](https://vornix.ai)
 
-I help service businesses adopt AI with clarity and confidence—without the hype, fear, or unnecessary complexity.
+I help service businesses adopt AI with clarity and confidence, without the hype, fear, or unnecessary complexity.
 
 ## What I’m Building
 
